@@ -23,17 +23,23 @@
 ## Project Structure
 
 - **Exercise 1:** Intro to Python Programming
+
   - Install Python on macOS, Windows, or Linux.
   - Create and manage virtual environments.
   - Use pip to install and manage packages.
 
+  -Using a Dictionary for recipe storage:
+
+Using a dictionary for storing recipes provides a structured and flexible way to manage data. It allows easy access and modification of individual attributes like name, cooking time, and ingredients. This approach enhances readability, scalability, and maintainability, making it ideal for complex applications where data structure and extensibility are crucial.
 
 ## Installation and Setup
 
 1. **Install Python 3.6+**
+
    - Download and install Python from [python.org](https://www.python.org/).
 
 2. **Clone the Repository**
    ```sh
    git clone https://github.com/eroktopus/Intro-to_Python.git
    cd Intro-to_Python
+   ```
