@@ -30,7 +30,7 @@
 
   -Using a Dictionary for recipe storage:
 
-Using a dictionary for storing recipes provides a structured and flexible way to manage data. It allows easy access and modification of individual attributes like name, cooking time, and ingredients. This approach enhances readability, scalability, and maintainability, making it ideal for complex applications where data structure and extensibility are crucial.
+Using a dictionary for storing recipes provides a structured and flexible way to manage data. It allows easy access and modification of individual attributes like name, cooking time, and ingredients. This approach enhances readability, scalability, and maintainability, making it ideal for complex applications where data structure and extensibility are crucial.ex
 
 ## Installation and Setup
 
